@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x ./designer/Control_GUI.ui -o ./package/ui/ui_Control_GUI.py
